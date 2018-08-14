@@ -1,7 +1,7 @@
 ﻿  源.cpp
-f:\杨帆\homework1and2\杨帆\project1\project1\源.cpp(29): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-f:\杨帆\homework1and2\杨帆\project1\project1\源.cpp(32): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-f:\杨帆\homework1and2\杨帆\project1\project1\源.cpp(35): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-f:\杨帆\homework1and2\杨帆\project1\project1\源.cpp(59): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
-f:\杨帆\homework1and2\杨帆\project1\project1\源.cpp(60): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-  Project1.vcxproj -> F:\杨帆\homework1and2\杨帆\Project1\Debug\Project1.exe
+f:\homework1yangfan\homework1and2\杨帆\project1\project1\源.cpp(29): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\homework1yangfan\homework1and2\杨帆\project1\project1\源.cpp(32): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\homework1yangfan\homework1and2\杨帆\project1\project1\源.cpp(35): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\homework1yangfan\homework1and2\杨帆\project1\project1\源.cpp(58): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\homework1yangfan\homework1and2\杨帆\project1\project1\源.cpp(59): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  Project1.vcxproj -> F:\homework1yangfan\homework1and2\杨帆\Project1\Debug\Project1.exe

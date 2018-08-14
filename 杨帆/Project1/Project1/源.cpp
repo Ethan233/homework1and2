@@ -38,16 +38,15 @@ int main()
 			}
 		}
 	}
-	cout << "输出按货物重量排序后的各数组：/n";
-	cout << "货物价重比数组:/n";
+	cout << "货物价重比数组:";
 	for (i = 0; i < N; i++)
 		cout << pWeight[i] << " ";
 	cout << endl;
-	cout << "货物重量数组:/n";
+	cout << "货物重量数组:";
 	for (i = 0; i < N; i++)
 		cout << weight[i] << " ";
 	cout << endl;
-	cout << "货物价值数组:/n";
+	cout << "货物价值数组:";
 	for (i = 0; i < N; i++)
 		cout << price[i] << " ";
 	cout << endl;
